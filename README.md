@@ -1,1 +1,1 @@
-# Road-Detection-in-Images-Using-a-Probabilistic-Graphical-Model-
+# Road Detection in Images Using a Probabilistic Graphical Model
